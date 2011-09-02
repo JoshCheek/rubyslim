@@ -1,3 +1,6 @@
+require "rubygems"
+require "bundler/setup"
+
 require 'rake'
 #require 'rcov/rcovtask'
 require 'spec/rake/spectask'
